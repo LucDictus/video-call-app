@@ -1,3 +1,6 @@
+# Initial Repository
+Original repository https://github.com/LucDictus/peerChat
+
 # Conference Call
 A conference call implementation using WebRTC, Socket.io and Node.js.
 
@@ -9,7 +12,6 @@ A conference call implementation using WebRTC, Socket.io and Node.js.
 
 
 # Features
-- Multi-participants
 - Toggling of video stream
 - Toggling of audio stream (mute & unmute)
 - Screen sharing
